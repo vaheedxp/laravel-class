@@ -7,7 +7,7 @@
 			'last_name'=>'Lastname',
 			'phone'=>'Phone',
 			'edit'=>'Edit',
-			'delelte'=>'delete',
+			'delete'=>'delete',
 			'view_all'=>'View All',
 			'create'=>'Create',
 			'send_email'=>'Send Email',
